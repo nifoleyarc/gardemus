@@ -1,0 +1,22 @@
+{
+  "name": "gardemus-orut-lang",
+  "version": "1.0.0",
+  "description": "auto translation en->ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nifoleyarc/gardemus-language.git"
+  },
+  "keywords": [
+    "translation"
+  ],
+  "author": "nifoleyarc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nifoleyarc/gardemus-language/issues"
+  },
+  "homepage": "https://github.com/nifoleyarc/gardemus-language#readme"
+}
